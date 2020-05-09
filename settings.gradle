@@ -1,0 +1,2 @@
+include ':app', ':otherbroadcastdemo'
+rootProject.name='BroadcastPermissionDemo'
